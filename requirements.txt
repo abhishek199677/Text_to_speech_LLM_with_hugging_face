@@ -1,0 +1,5 @@
+transformers
+torch
+numpy==1.26
+TensorFlow
+PyTorch
